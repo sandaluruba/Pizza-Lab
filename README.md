@@ -173,6 +173,11 @@ App will be available at `http://localhost:5173`.
 4. Copy the **Client ID** into both `frontend/.env` and `backend/.env`.
 5. Optionally configure the app to issue **JWT access tokens** to avoid introspection.
 
+
+<img src="docs/screenshots/login.png" alt="Menu Page" width="700"/>
+<img src="docs/screenshots/Register.png" alt="Menu Page" width="700"/>
+<img src="docs/screenshots/2factor.png" alt="Menu Page" width="700"/>
+
 ---
 
 ## Authentication Flow
