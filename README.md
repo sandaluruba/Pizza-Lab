@@ -174,9 +174,9 @@ App will be available at `http://localhost:5173`.
 5. Optionally configure the app to issue **JWT access tokens** to avoid introspection.
 
 
-<img src="docs/screenshots/login.png" alt="Menu Page" width="700"/>
-<img src="docs/screenshots/Register.png" alt="Menu Page" width="700"/>
-<img src="docs/screenshots/2factor.png" alt="Menu Page" width="700"/>
+<img src="docs/screenshots/login.png" alt="Login Page" width="500"/>
+<img src="docs/screenshots/Register.png" alt="Register Page" width="500"/>
+<img src="docs/screenshots/2factor.png" alt="2FA Page" width="500"/>
 
 ---
 
