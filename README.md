@@ -2,6 +2,8 @@
 
 A full-stack pizza ordering web application built with **React + TypeScript** (frontend) and **FastAPI + MongoDB** (backend), secured with **WSO2 Asgardeo** as the Identity Provider using OIDC / PKCE.
 
+<img src="docs/screenshots/landing_page.png" alt="landing page" width="500"/>
+
 ---
 
 ## Features
